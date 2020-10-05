@@ -10,7 +10,7 @@ Working on Apple Developer Academy (PUC-RS)
 ## My Released Apps 📱⌚️
 🦖 [Sinq: Your Fitness Companion](https://apps.apple.com/br/app/sinq-your-fitness-companion/id1523343191?l=en) <br>
 👾 [TameWatch: Your Health Pet](https://apps.apple.com/th/app/tamewatch/id1485279593) <br>
-🌬 WellMe: Beyond a simple breath - Soon at App Store
+🌬 WellMe: Beyond a simple breath - Coming soon to App Store
 
 <br>
 
