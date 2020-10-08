@@ -19,6 +19,7 @@ Working on Apple Developer Academy (PUC-RS)
 🏆 Apple WWDC 2019 Scholarship Winner - [Help The Monkey](https://github.com/matheusfogiatto/help-the-monkey) <br>
 🏆 Apple WWDC 2020 Swift Student Challenge Winner - [Mental Health Journey](https://www.youtube.com/watch?v=OtrIBNOJ2AE&t=23s) <br>
 📰 App publication on MacMagazine - [TameWatch](https://macmagazine.uol.com.br/post/2019/11/27/alimente-um-tamagotchi-e-cuide-da-sua-saude-com-esse-jogo-para-apple-watch/) <br>
+📰 App publication on MacMagazine - [Sinq](https://macmagazine.uol.com.br/post/2020/10/07/crie-metas-e-ganhe-recompensas-se-exercitando-com-o-sinq/) <br>
 🗞 Featured on the University Website - [Uniritter](https://www.uniritter.edu.br/noticias/noticias/estudante-de-analise-e-desenvolvimento-de-sistemas-e-premiado-internacionalmente?fbclid=IwAR2seBJoDv3urKEOXpyUQ2Tngi0K-XLo8Uf3Zczid4pwM1HsJIn_vjvFYec)
 
 <br>
