@@ -1,9 +1,9 @@
 ## Matheus Fogiatto 🧑🏻‍💻 
 Hi there 👋
 
-I'm an iOS Engineer and Computer Systems Analysis student who loves to discover new technologies. I engage in any project that involves Health and Fitness. My personal's goal is to create products that encourage people to have a healthy life! 
+I'm an iOS Engineer and Computer Systems Analyst who loves to discover new technologies. I engage in any project that involves Health and Fitness. My personal's goal is to create products that encourage people to have a healthy life! 
 
-Working on Apple Developer Academy (PUC-RS)
+Working on Tata Consultancy Services - Brazil (in Banco Itaú S.A. project)
 
 <br>
 
