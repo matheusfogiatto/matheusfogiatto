@@ -28,5 +28,5 @@ Working on Tata Consultancy Services - Brazil (in Banco Itaú S.A. project)
 <br>
 
 ## Get in touch 🔗📩
-- [LinkedIn](https://www.linkedin.com/in/matheus-fogiatto-8b74a8179/)
+- [LinkedIn](https://www.linkedin.com/in/matheus-fogiatto/)
 - [Instagram](https://www.instagram.com/matheus.fogiatto/)
